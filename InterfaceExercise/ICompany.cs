@@ -16,5 +16,6 @@ namespace InterfaceExercise
          */
         public int NumberOfModels { get; set; }
         public bool IsAmerican { get; set; }
+        public void DisplayOutput();//stubbed out
     }
 }
